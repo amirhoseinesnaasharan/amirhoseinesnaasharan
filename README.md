@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amirhosein Esnaasharan</h1>
 <h3 align="center">My passion lies in developing AI-driven solutions, with a focus on image processing, NLP, and building intelligent chatbots 🤖.</h3>
 
-<img align="right" width="800" height="474" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" /> 
+<img align="right" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhoseinesnaasharan&label=Profile%20views&color=0e75b6&style=flat" alt="amirhoseinesnaasharan" /> </p>
 
 - Image Caption Generator 🖼️: Automatically generates descriptive captions for images. 
