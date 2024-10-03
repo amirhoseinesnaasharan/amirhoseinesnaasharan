@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amirhosein Esnaasharan</h1>
 <h3 align="center">My passion lies in developing AI-driven solutions, with a focus on image processing, NLP, and building intelligent chatbots 🤖.</h3>
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhoseinesnaasharan&label=Profile%20views&color=0e75b6&style=flat" alt="amirhoseinesnaasharan" /> </p>
+
+- Image Caption Generator 🖼️: Automatically generates descriptive captions for images. **Image Caption Generator 🖼️**
+
+- Cat-Dog Image Classifier 🐱🐶: A CNN-based model for classifying cats and dogs. **Cat-Dog Image Classifier 🐱🐶**
+
+- Persian OCR Tool (ابزار OCR فارسی) 🇮🇷: Recognizes Persian text from images with high accuracy. **Persian OCR Tool (ابزار OCR فارسی) 🇮🇷**
 
 - 📫 How to reach me **amirhosainesnaasharan@gmail.com**
 
