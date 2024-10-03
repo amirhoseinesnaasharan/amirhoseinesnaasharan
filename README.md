@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirhoseinesnaasharan&label=Profile%20views&color=0e75b6&style=flat" alt="amirhoseinesnaasharan" /> </p>
 
-- Image Caption Generator 🖼️: Automatically generates descriptive captions for images. **Image Caption Generator 🖼️**
+- Image Caption Generator 🖼️: Automatically generates descriptive captions for images. 
 
-- Cat-Dog Image Classifier 🐱🐶: A CNN-based model for classifying cats and dogs. **Cat-Dog Image Classifier 🐱🐶**
+- Cat-Dog Image Classifier 🐱🐶: A CNN-based model for classifying cats and dogs. 
 
-- Persian OCR Tool (ابزار OCR فارسی) 🇮🇷: Recognizes Persian text from images with high accuracy. **Persian OCR Tool (ابزار OCR فارسی) 🇮🇷**
+- Persian OCR Tool (ابزار OCR فارسی) 🇮🇷: Recognizes Persian text from images with high accuracy. 
 
 - 📫 How to reach me **amirhosainesnaasharan@gmail.com**
 
